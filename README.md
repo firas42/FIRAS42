@@ -2,7 +2,28 @@
 
 ###
 
-<p align="left">My name is FIRAS</p>
+<p align="left">Firas Souissi
+🎓 Student in Information and Communication Technology (ICT) | Faculty of Sciences of Tunis
+🎯 Passionate about tech, innovation, and event management
+
+👨‍💻 About Me
+
+5+ years of experience in social clubs and leadership roles.
+Former President of TUNIVISIONS at IADM and Vice President of Events at TUNIVISIONS FST.
+Co-founder of Go For IT Academy, an online platform for IT training.
+Active in community building, digital marketing, sponsorships, and event planning.
+💡 Projects & Interests
+
+Founder of Netflxy and 1hd.to, exploring streaming platforms and tech innovation.
+Organizer of impactful events like workshops, conferences, and film screenings.
+Chess enthusiast and advisor to the Chess Club at FST.
+Avid motorsport and aviation fan.
+🌐 Certifications
+
+Google Certified in Digital Marketing
+Certified in Event Management by TUNIVISIONS
+🚀 Let's Connect
+Feel free to collaborate on exciting open-source projects or reach out to discuss tech, events, or innovation!</p>
 
 ###
 
