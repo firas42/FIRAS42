@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Firas Souissi
-🎓 Student in Information and Communication Technology (ICT) | Faculty of Sciences of Tunis
+🎓 Student IT in  Faculty of Sciences of Tunis
 🎯 Passionate about tech, innovation, and event management
 
 👨‍💻 About Me
